@@ -14,7 +14,6 @@ It is highly recommended to run and develop this application under Windows due t
 3. Press "Open Project" in the welcome page
 4. Click the green triangle button ("Run") on the top
 
-### References
 #### Schema & Circuit
 <img src="img/schema.jpg">
 <br>
