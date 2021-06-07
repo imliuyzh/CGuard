@@ -2,10 +2,7 @@
 A combination lock written in C which allows users to create single-use passwords in a session. A video of the application can be found [here](https://youtu.be/XeMv6YNShyc).
 
 ## Running the Application
-### Built With
-+ Microchip Studio
-
-It is highly recommended to run and develop this application under Windows due to minimal problems. A detailed list of the components used can be found [here](https://www.ics.uci.edu/~givargis/courses/cs145/resources/Material.pdf).
+CGuard is written with Microchip Studio. It is highly recommended to run and develop this application under Windows due to minimal problems. A detailed list of the components used can be found [here](https://www.ics.uci.edu/~givargis/courses/cs145/resources/Material.pdf).
 
 ### Steps
 1. Assemble the physical components according to the schema and images of physical circuits below.
