@@ -26,7 +26,7 @@ It is highly recommended to run and develop this application under Windows due t
 <img src="img/circuit-3.jpg">
 
 #### Connector
-<img src="connector.png">
+<img src="img/connector.png">
 
 ## Acknowledgments
 This project is originally developed for UC Irvine's CS 145/CSE 145 taught by Prof. Tony Givargis. During the development process, some assistance is received from the TAs for software library usage.
