@@ -1,15 +1,18 @@
 # CGuard
-A combination lock written in C which allows users to create single-use passwords in a session. A video of the application can be found [here](https://youtu.be/XeMv6YNShyc).
+A combination lock written in C which allows users to create single-use passwords in a session. 
+
+## Demonstration
+https://youtu.be/XeMv6YNShyc
 
 ## Running the Application
 ### Built With
 + Microchip Studio
 + Windows 10
 
-It is highly recommended to run and develop this application under Windows due to minimal problems. A detailed look of the components used can be found [here](https://www.ics.uci.edu/~givargis/courses/cs145/resources/Material.pdf).
+It is highly recommended to run and develop this application under Windows due to minimal problems. A detailed list of the components used can be found [here](https://www.ics.uci.edu/~givargis/courses/cs145/resources/Material.pdf).
 
 ### Steps
-1. Place the physical components according to the schema and images of physical circuits below.
+1. Assemble the physical components according to the schema and images of physical circuits below.
    + Remember to connect the breadboard like the diagram specified.
 2. Open Microchip Studio
 3. Press "Open Project" in the welcome page
@@ -17,16 +20,16 @@ It is highly recommended to run and develop this application under Windows due t
 
 ### References
 #### Schema & Circuit
-<img src="schema.jpg">
+<img src="img/schema.jpg">
 <br>
-<img src="circuit-1.jpg">
+<img src="img/circuit-1.jpg">
 <br>
-<img src="circuit-2.jpg">
+<img src="img/circuit-2.jpg">
 <br>
-<img src="circuit-3.jpg">
+<img src="img/circuit-3.jpg">
 
 #### Connector
-<img src="connector.png">
+<img src="img/connector.png">
 
 ## Acknowledgments
 This project is originally developed for UC Irvine's CS 145/CSE 145 taught by Prof. Tony Givargis. During the development process, some assistance is received from the TAs for software library usage.
