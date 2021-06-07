@@ -4,7 +4,6 @@ A combination lock written in C which allows users to create single-use password
 ## Running the Application
 ### Built With
 + Microchip Studio
-+ Windows 10
 
 It is highly recommended to run and develop this application under Windows due to minimal problems. A detailed list of the components used can be found [here](https://www.ics.uci.edu/~givargis/courses/cs145/resources/Material.pdf).
 
