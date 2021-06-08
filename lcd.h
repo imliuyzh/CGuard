@@ -1,6 +1,6 @@
 /**
  * lcd.h
- * Copyright (C) 2001-2020, Tony Givargis and Yizhen Liu
+ * Copyright (C) 2001-2021, Tony Givargis and Yizhen Liu
  */
 
 #ifndef _LCD_H_
