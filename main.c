@@ -1,6 +1,6 @@
 /**
  * main.c
- * Copyright (C) 2001-2020, Yizhen Liu
+ * Copyright (C) 2021, Yizhen Liu
  */
 
 #include <stdio.h>
