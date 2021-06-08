@@ -7,9 +7,13 @@ CGuard is written with Microchip Studio. It is highly recommended to run and dev
 ### Steps
 1. Assemble the physical components according to the schema and images of physical circuits below.
    + Remember to connect the breadboard like the diagram specified.
-2. Open Microchip Studio
-3. Press "Open Project" in the welcome page
-4. Click the green triangle button ("Run") on the top
+2. Open Microchip Studio.
+3. Press "New Project" in the welcome page.
+4. Select "AVR XC8 C Application Project" and press "OK."
+5. Specify the device as "ATMEGA32."
+6. Import the files by right click on the solution explorer, select "Add->Existing Item," and add the files.
+7. When you run the program first time, choose the debugger/programmer as the second item on the dropdown menu.
+8. Click the green triangle button ("Run") on the top
 
 #### Schema & Circuit
 <img src="img/schema.jpg">
